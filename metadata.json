@@ -1,0 +1,6 @@
+{
+  "name": "Futuro Simple: Fútbol y Español",
+  "description": "Ինտերակտիվ իսպաներեն-հայերեն ուսուցողական խաղեր Futuro Simple ժամանակաձևով՝ ֆուտբոլային իրավիճակներով և աուդիո արտասանությամբ:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
